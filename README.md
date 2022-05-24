@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @veenusflytrap
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Cyber Security
+- 💞️ I’m looking to collaborate on ... (not sure yet just working on personal stuff to keep up skills)
+- 📫 How to reach me ...
